@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArtExhibitionApp/1.0.0": {
+        "runtime": {
+          "ArtExhibitionApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArtExhibitionApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\ArtExhibitionApp\bin\Debug\net9.0\ArtExhibitionApp.exe
+C:\Users\HP\ArtExhibitionApp\bin\Debug\net9.0\ArtExhibitionApp.deps.json
+C:\Users\HP\ArtExhibitionApp\bin\Debug\net9.0\ArtExhibitionApp.runtimeconfig.json
+C:\Users\HP\ArtExhibitionApp\bin\Debug\net9.0\ArtExhibitionApp.dll
+C:\Users\HP\ArtExhibitionApp\bin\Debug\net9.0\ArtExhibitionApp.pdb
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.AssemblyInfoInputs.cache
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.AssemblyInfo.cs
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.dll
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\refint\ArtExhibitionApp.dll
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.pdb
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ArtExhibitionApp.genruntimeconfig.cache
+C:\Users\HP\ArtExhibitionApp\obj\Debug\net9.0\ref\ArtExhibitionApp.dll

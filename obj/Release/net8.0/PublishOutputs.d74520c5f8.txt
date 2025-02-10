@@ -1,0 +1,5 @@
+C:\Users\HP\ArtExhibitionApp\out\ArtExhibitionApp.exe
+C:\Users\HP\ArtExhibitionApp\out\ArtExhibitionApp.dll
+C:\Users\HP\ArtExhibitionApp\out\ArtExhibitionApp.deps.json
+C:\Users\HP\ArtExhibitionApp\out\ArtExhibitionApp.runtimeconfig.json
+C:\Users\HP\ArtExhibitionApp\out\ArtExhibitionApp.pdb
